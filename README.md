@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Fenil Mehta! 👋
 
-<!--
-**fennydev/fennydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a 16 year old developer who's exploring new technologies. 
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- **JavaScript**: Why I'm excited to dive deeper into this topic and how it connects to my projects.
+- **React.JS**: How I'm applying this in real-world scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Technologies & Tools I Use
+- **Languages**: TypeScript, HTML, CSS, Python, 
+- **Web**: React.JS, Node.JS, HTML5, TailwindCSS, SASS, Next.JS
+- **Tools**: Git, Docker, Vercel, Netlify, Figma
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
