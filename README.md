@@ -3,8 +3,8 @@
 Welcome to my GitHub! I'm a 16 year old developer who's exploring new technologies. 
 
 ## 🌱 Currently Learning
-- **JavaScript**: Why I'm excited to dive deeper into this topic and how it connects to my projects.
-- **React.JS**: How I'm applying this in real-world scenarios.
+- **JavaScript**
+- **React.JS**
 
 ## 🧑‍💻 Technologies & Tools I Use
 - **Languages**: TypeScript, HTML, CSS, Python, 
